@@ -1,0 +1,23 @@
+﻿  BubbleSort.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\BubbleSort.cpp(10,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleHelper.cpp
+  CountingSort.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\CountingSort.cpp(7,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Cp_Labs.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\SortsTester.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\Cp_Labs.cpp(17,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InsertionSort.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\InsertionSort.cpp(8,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MergeSort.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\MergeSort.cpp(7,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\MergeSort.cpp(26,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\MergeSort.cpp(27,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\MergeSort.cpp(30,23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  QuickSort.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\QuickSort.cpp(39,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SelectionSort.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\SelectionSort.cpp(7,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SortsTester.cpp
+C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\Cp_Labs\SortsTester.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Cp_Labs.vcxproj -> C:\Users\zzzxl\source\repos\Cp_Labs\1Lab_cpp\x64\Debug\Cp_Labs.exe
