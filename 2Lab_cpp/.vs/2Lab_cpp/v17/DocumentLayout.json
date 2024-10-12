@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC4675-53D5-47A3-9AD6-67B17CD3FA5D}|2Lab_cpp\\2Lab_cpp.vcxproj|C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\2Lab_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03BC4675-53D5-47A3-9AD6-67B17CD3FA5D}|2Lab_cpp\\2Lab_cpp.vcxproj|solutionrelative:2Lab_cpp\\2Lab_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC4675-53D5-47A3-9AD6-67B17CD3FA5D}|2Lab_cpp\\2Lab_cpp.vcxproj|C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\ForwardList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03BC4675-53D5-47A3-9AD6-67B17CD3FA5D}|2Lab_cpp\\2Lab_cpp.vcxproj|solutionrelative:2Lab_cpp\\ForwardList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC4675-53D5-47A3-9AD6-67B17CD3FA5D}|2Lab_cpp\\2Lab_cpp.vcxproj|C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\ForwardList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03BC4675-53D5-47A3-9AD6-67B17CD3FA5D}|2Lab_cpp\\2Lab_cpp.vcxproj|solutionrelative:2Lab_cpp\\ForwardList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2Lab_cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\2Lab_cpp.cpp",
+              "RelativeDocumentMoniker": "2Lab_cpp\\2Lab_cpp.cpp",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\2Lab_cpp.cpp",
+              "RelativeToolTip": "2Lab_cpp\\2Lab_cpp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T11:38:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForwardList.cpp",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\ForwardList.cpp",
+              "RelativeDocumentMoniker": "2Lab_cpp\\ForwardList.cpp",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\ForwardList.cpp",
+              "RelativeToolTip": "2Lab_cpp\\ForwardList.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-12T11:38:18.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForwardList.h",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\ForwardList.h",
+              "RelativeDocumentMoniker": "2Lab_cpp\\ForwardList.h",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2Lab_cpp\\2Lab_cpp\\ForwardList.h",
+              "RelativeToolTip": "2Lab_cpp\\ForwardList.h",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAgwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-12T09:33:06.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
