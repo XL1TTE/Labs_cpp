@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\Cp_Labs\\1Lab_cpp\\",
+  "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\cpp_Labs\\1Lab_cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4FE0D7E-A4CC-4A72-9A06-85265DBB150B}|Cp_Labs\\Cp_Labs.vcxproj|C:\\Users\\zzzxl\\source\\repos\\Cp_Labs\\1Lab_cpp\\Cp_Labs\\Cp_Labs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F4FE0D7E-A4CC-4A72-9A06-85265DBB150B}|Cp_Labs\\Cp_Labs.vcxproj|C:\\Users\\zzzxl\\source\\repos\\cpp_Labs\\1Lab_cpp\\Cp_Labs\\Cp_Labs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4FE0D7E-A4CC-4A72-9A06-85265DBB150B}|Cp_Labs\\Cp_Labs.vcxproj|solutionrelative:Cp_Labs\\Cp_Labs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cp_Labs.cpp",
-              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\Cp_Labs\\1Lab_cpp\\Cp_Labs\\Cp_Labs.cpp",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\cpp_Labs\\1Lab_cpp\\Cp_Labs\\Cp_Labs.cpp",
               "RelativeDocumentMoniker": "Cp_Labs\\Cp_Labs.cpp",
-              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\Cp_Labs\\1Lab_cpp\\Cp_Labs\\Cp_Labs.cpp",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\cpp_Labs\\1Lab_cpp\\Cp_Labs\\Cp_Labs.cpp",
               "RelativeToolTip": "Cp_Labs\\Cp_Labs.cpp",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T08:20:39.551Z",
               "EditorCaption": ""
