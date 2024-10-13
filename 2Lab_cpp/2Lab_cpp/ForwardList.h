@@ -1,5 +1,6 @@
 #pragma once
 #include "stdexcept"
+
 template <typename Type>
 class ForwardList {
 
